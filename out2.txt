@@ -1,0 +1,4 @@
+Status: SUCCESS
+Message: Successfully retrieved 111 building footprints.
+Count: 111
+Features: 111
